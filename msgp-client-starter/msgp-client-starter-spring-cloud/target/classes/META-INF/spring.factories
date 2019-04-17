@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.hugo.midware.msgp.client.spring.cloud.MsgpClientAutoConfiguration

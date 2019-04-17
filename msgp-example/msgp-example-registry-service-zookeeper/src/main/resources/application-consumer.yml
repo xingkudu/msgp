@@ -1,0 +1,9 @@
+rpc:
+  instanceConfig:
+    application: edsp-consumer # edsp-consumer
+    group: g01
+    version: 1.0.0
+  registryConfig:
+    port: 2181
+    host: 127.0.0.1
+    timeout: 3000

@@ -1,0 +1,12 @@
+rpc:
+  instanceConfig:
+    application: edsp-provider # edsp-provider
+    group: g01
+    version: 1.0.0
+    syncProtocolConfig:
+      protocol: edsp
+      port: 2376
+  registryConfig:
+    port: 2181
+    host: 127.0.0.1
+    timeout: 3000

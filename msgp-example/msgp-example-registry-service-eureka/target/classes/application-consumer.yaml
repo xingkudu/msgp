@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: example-consumer
+    group: CS
+    version: 1.0
+eureka:
+  client:
+    service-url:
+      defaultZone: http://username:pass@localhost:8761/eureka/
